@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="logoText">Значение степени</string>
+    <string name="hint_1">Основание степени</string>
+    <string name="hint_2">Показатель степени</string>
+    <string name="button">результат степени</string>
+</resources>
